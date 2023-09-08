@@ -23,7 +23,7 @@ def get_info():
         "current_day":day,
         "utc_time":utc_time,
         "track":track,
-        "github_file_url":None,
+        "github_file_url":"https://github.com/Andrew-Ayegh/HNGx_Stage1/blob/252e919191aad8aa96ef4a208bbfb99b946bbb4b/main.py",
         "github_repo_link":"https://github.com/Andrew-Ayegh/HNGx_Stage1",
         "status_code":200
     }
